@@ -13,8 +13,7 @@ const Hero = () => {
       <h2 className="hero-subtitle">Software Engineer | Web Developer | QA Tester</h2>
 
    <p className="hero-description">
-  Graduated with Distinction in Advanced Diploma in Software Engineering.  
-  Skilled in creating robust, scalable web applications and committed to delivering high-quality software through meticulous development and testing.
+  Experienced and passionate about building scalable, high-performing web applications with a focus on clean code, efficiency, and reliable testing.
    </p>
 
       <div className="btn-group">

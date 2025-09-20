@@ -10,8 +10,7 @@ const About = () => {
           <h2>About Me</h2>
           <p>
             I am <span>Omolade Aboaba</span>, a passionate and detail-oriented{" "}
-            <strong>Software Engineering</strong> graduate with a Distinction in
-            my Advanced Diploma. My journey so far has equipped me with strong
+            <strong>Software Engineering</strong> graduate with a Distinction. My journey so far has equipped me with strong
             skills in web development, testing, and problem-solving.
           </p>
           <p>
